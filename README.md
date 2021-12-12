@@ -8,4 +8,4 @@ The water reservoir system is a unity-feedback system with a controller, C(s), w
 `pid_controller_water_reservoir.m` is the main code which simulates and analyzes the closed-loop system under varying controllers.
 First, I test the system with no controller, then with 2 P controllers, 1 PI controller, 1 PD controller, and 2 PID controllers, where each is implemented separately.
 
-The closed-loop stabilty is inferred by analyzing the open-loop behavior via two method: (1) bode plot, and (2) root locus plot.
+The closed-loop stabilty is inferred by analyzing the open-loop behavior via two methods: (1) bode plot, and (2) root locus plot.
