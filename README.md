@@ -1,4 +1,4 @@
-# pid-controller-water-reservoir
+# PID Controller Water Reservoir
 This repository is for my Automatic Control Systems project on a PID control for a water reservoir system.
 
 The water reservoir system is a unity-feedback system with a controller, C(s), water pump motor, P(s), and STH (motor speed to water height) block, G(s), all in series in the forward path.
